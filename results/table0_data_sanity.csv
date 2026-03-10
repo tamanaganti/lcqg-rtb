@@ -1,0 +1,4 @@
+tier,count,mean_z,mean_engagement_proxy,artifact_prevalence,mean_prs_noise_abs,device_mobile_frac,slot_banner_frac
+HIGH,20000,0.7786,0.04515,0.0,0.0559,0.5533,0.3936
+MED,17500,0.5022,0.03412,0.0,0.0557,0.5479,0.3985
+LOW,12500,0.2211,0.02293,0.6931,0.0555,0.5536,0.4045
